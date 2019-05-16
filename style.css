@@ -92,11 +92,11 @@ body
  
 .navbar a:hover {
     background-color: #ddd;
-    color: black;
+    color: rgb(160, 154, 154);
   }
   
  .navbar a.active {
-    background-color: grey;
+  color: rgb(160, 154, 154);
     color: white;
   }
   
