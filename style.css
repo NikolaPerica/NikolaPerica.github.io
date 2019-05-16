@@ -72,6 +72,7 @@ body
 }
 .head
 {
+	margin-top:60px;
     padding-top:20%;
     background-image: url("./images/head.jpg");
     height: 720px;
